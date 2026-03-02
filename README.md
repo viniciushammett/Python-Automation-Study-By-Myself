@@ -6,4 +6,5 @@
 
 <p align="center">
   Jornada prática de evolução em Python aplicada a SRE e DevOps 🚀
+  Utilizando o Chatgpt para pair-programming 🤖
 </p>
