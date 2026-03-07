@@ -9,6 +9,7 @@ def main():
 
     descricao, severidade = classificar_exit_code(args.codigo)
 
+    print(f"HTTP Code: {args.codigo}")
     print(f"Descrição: {descricao}")
     print(f"Severidade: {severidade}")
 
